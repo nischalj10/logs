@@ -1,2 +1,1 @@
-daily logs <br/>
-appraently apple's nudges with their journal app did work. or did they?
+#### [blogs & daily logs ↗](https://nischalj10.github.io/logs/index.html)
